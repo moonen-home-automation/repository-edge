@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  grpc-bridge:
+    repository: moonen-home-automation/grpc-bridge
+    target: grpc-bridge
+    image: ghcr.io/moonen-home-automation/grpc-bridge/{arch}
