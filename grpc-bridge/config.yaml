@@ -1,7 +1,7 @@
 name: gRPC Bridge
 description: Use gRPC calls to control and react to Home Assistant events, entities
   and more
-version: 4fbecc0
+version: 0d4020a
 url: https://github.com/moonen-home-automation/grpc-bridge
 slug: grpc-bridge
 init: false
