@@ -1,4 +1,12 @@
 # Changelog since v1.0.0
+- Merge pull request #8 from moonen-home-automation/renovate/github.com-fatih-color-1.x
+
+⬆️ Update module github.com/fatih/color to v1.17.0 
+- ⬆️ Update module github.com/fatih/color to v1.17.0 
+- Merge pull request #6 from moonen-home-automation/renovate/github.com-mattn-go-colorable-0.x
+
+⬆️ Update module github.com/mattn/go-colorable to v0.1.13 
+- ⬆️ Update module github.com/mattn/go-colorable to v0.1.13 
 - Merge pull request #5 from moonen-home-automation/renovate/google.golang.org-genproto-googleapis-rpc-digest
 
 ⬆️ Update google.golang.org/genproto/googleapis/rpc digest to dc46fd2 
