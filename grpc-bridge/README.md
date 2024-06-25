@@ -28,3 +28,7 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/moonen-home-automation/repository>
 
+[release-shield]: https://img.shields.io/badge/version-2039b52-blue.svg
+[release]: https://github.com/moonen-home-automation/grpc-bridge/tree/2039b52
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
