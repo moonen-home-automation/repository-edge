@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- add goproxy 
 - enable indirect dependencies 
 - fix renovate 
 - Prettified Code! 
