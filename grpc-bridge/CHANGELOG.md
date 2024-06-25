@@ -1,4 +1,12 @@
 # Changelog since v1.0.0
+- Merge pull request #11 from moonen-home-automation/renovate/golang.org-x-net-0.x
+
+⬆️ Update module golang.org/x/net to v0.26.0 
+- ⬆️ Update module golang.org/x/net to v0.26.0 
+- Merge pull request #9 from moonen-home-automation/renovate/golang.org-x-sys-0.x
+
+⬆️ Update module golang.org/x/sys to v0.21.0 
+- ⬆️ Update module golang.org/x/sys to v0.21.0 
 - Merge pull request #8 from moonen-home-automation/renovate/github.com-fatih-color-1.x
 
 ⬆️ Update module github.com/fatih/color to v1.17.0 
