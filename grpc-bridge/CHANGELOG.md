@@ -1,4 +1,6 @@
 # Changelog since v1.0.0
+- renovate 
+- renovate 
 - add goproxy 
 - enable indirect dependencies 
 - fix renovate 
