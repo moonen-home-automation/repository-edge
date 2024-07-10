@@ -1,6 +1,6 @@
 name: MinIO
 version: 0f3266a
-slug: minio
+slug: addon-minio
 description: High Performance Object Storage that is Open Source and Amazon S3 compatible
 url: https://github.com/moonen-home-automation/addon-minio
 codenotary: rick@moonen.network
@@ -10,7 +10,7 @@ ingress_stream: true
 panel_icon: mdi:database
 startup: services
 arch:
-- amd64
+  - amd64
 init: false
 ports:
   9000/tcp: 9000
