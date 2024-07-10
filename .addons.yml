@@ -5,7 +5,7 @@ addons:
     repository: moonen-home-automation/grpc-bridge
     target: grpc-bridge
     image: ghcr.io/moonen-home-automation/grpc-bridge/{arch}
-  addon-minio:
+  minio:
     repository: moonen-home-automation/addon-minio
-    target: addon-minio
-    image: ghcr.io/moonen-home-automation/addon-minio/{arch}
+    target: minio
+    image: ghcr.io/moonen-home-automation/minio/{arch}
