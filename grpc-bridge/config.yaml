@@ -1,10 +1,14 @@
-name: "gRPC Bridge"
-description: "Service that acts as a bridge between Home Assistant and other services. Translating gRPC calls into WebSocket commands."
-version: "1.0.0"
-slug: "grpc_bridge"
+name: gRPC Bridge
+description: Use gRPC calls to control and react to Home Assistant events, entities
+  and more
+version: 2039b52
+url: https://github.com/moonen-home-automation/grpc-bridge
+slug: grpc-bridge
 init: false
 arch:
+- aarch64
 - amd64
+- armv7
 homeassistant_api: true
 ports:
   9091/tcp: 9091
