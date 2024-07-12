@@ -1,1 +1,1 @@
-- change to debian
+- permissions fix
