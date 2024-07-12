@@ -1,5 +1,5 @@
 name: MinIO
-version: 9beacc6
+version: 14ada28
 slug: minio
 description: High Performance Object Storage that is Open Source and Amazon S3 compatible
 url: https://github.com/moonen-home-automation/addon-minio
@@ -18,4 +18,14 @@ ports:
 ports_description:
   9000/tcp: API
   9001/tcp: WebUI
+options:
+  user: root
+  password: password
+  envvars: []
+schema:
+  user: str
+  password: password
+  envvars:
+  - name: match(^MINIO_([A-Z0-9_])+$)
+    value: str
 image: ghcr.io/moonen-home-automation/minio/{arch}

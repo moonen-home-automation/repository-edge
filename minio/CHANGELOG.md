@@ -1,1 +1,1 @@
-- fix slug
+- Merge branch 'main' of github.com:moonen-home-automation/addon-minio
