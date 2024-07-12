@@ -1,5 +1,5 @@
 name: MinIO
-version: 14ada28
+version: 8b5e7e9
 slug: minio
 description: High Performance Object Storage that is Open Source and Amazon S3 compatible
 url: https://github.com/moonen-home-automation/addon-minio
