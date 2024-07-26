@@ -9,3 +9,7 @@ addons:
     repository: moonen-home-automation/addon-minio
     target: minio
     image: ghcr.io/moonen-home-automation/minio/{arch}
+  fortigate-pbr-streaming:
+    repository: moonen-home-automation/addon-fortigate-pbr-streaming
+    target: fortigate-pbr-streaming
+    image: ghcr.io/moonen-home-automation/fortigate-pbr-streaming/{arch}
