@@ -1,5 +1,5 @@
 name: FortiGate BPR Streaming script
-version: e4dc709
+version: ae8d53b
 slug: fortigate-pbr-streaming
 description: Script for dynamically updating Policy-based-routing policies on a FortiGate
 url: https://github.com/moonen-home-automation/addon-fortigate-pbr-streaming
