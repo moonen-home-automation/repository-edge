@@ -1,3 +1,3 @@
-- Merge pull request #3 from moonen-home-automation:feature/add_vdom
+- Merge pull request #4 from moonen-home-automation/feature/vdom_assignment_pbr
 
-add vdom option
+PBR change with VDOM ref
