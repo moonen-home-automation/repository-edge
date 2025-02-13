@@ -1,3 +1,3 @@
-- Merge pull request #4 from moonen-home-automation/feature/vdom_assignment_pbr
+- Merge pull request #5 from moonen-home-automation/feature/VDOM_API_URL_Change
 
-PBR change with VDOM ref
+Changed API URL for PBR
