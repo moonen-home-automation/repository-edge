@@ -1,3 +1,3 @@
-- Merge pull request #6 from moonen-home-automation/feature/logging_vpn_change
+- Merge pull request #7 from moonen-home-automation/feature/logging_for_vpn_change
 
-Add logging
+Change logging approach.
